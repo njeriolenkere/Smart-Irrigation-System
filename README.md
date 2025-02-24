@@ -1,6 +1,6 @@
 # Smart-Irrigation-System project2
 Stop killing your plants by under watering them or over watering them! Instead use Automated Plant Watering System with Arduino IoT.
-![Wiring Diagram](Automated_Plant_Watering_System_with_Arduino_IoT-nawdigital.png)
+![Landing Image](smart_irrigation_system_arduino_wiring_diagram.png)
 
 ## Step 1: Gather all the Necessary Components
 * Arduino Uno
