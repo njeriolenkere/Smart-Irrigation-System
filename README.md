@@ -16,8 +16,8 @@ Stop killing your plants by under watering them or over watering them! Instead u
 * MH Soil Moisture Level Sensor (YL-38 LM393 sensor converter module
 ...FC-28 hygrometer fork electrode )
 * Jumper wire
-* 5v pump water pump ( 2.5-6V)
-* Submersible Water Pump  ( inner diameter of 4.7mm)
+* Submersible  5v pump water pump ( 2.5-6V)
+* Water Pipe  ( inner diameter of 4.7mm)
 * Powerbank or any other power source
 * Relay 5v
 ### Software
