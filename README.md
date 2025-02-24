@@ -1,5 +1,6 @@
 # Smart-Irrigation-System project2
 Stop killing your plants by under watering them or over watering them! Instead use Automated Plant Watering System with Arduino IoT.
+![Wiring Diagram](Automated_Plant_Watering_System_with_Arduino _IoT-nawdigital.png)
 
 ## Step 1: Gather all the Necessary Components
 * Arduino Uno
@@ -24,6 +25,7 @@ Stop killing your plants by under watering them or over watering them! Instead u
 * ChatGPT (https://chatgpt.com/)
 
 ## Step 2: Connect the Components (use wiring diagrams)
+![Wiring Diagram](smart_irrigation_system_arduino_wiring_diagram.png)
 
 ## Step 3: Write Your Code using ChatGPT
 ``` C++
